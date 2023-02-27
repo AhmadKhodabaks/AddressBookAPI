@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048877.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/512/3231/3231329.png" alt="Logo" width="80" height="80">
 
 <h3 align="center">Assignment 2: Address Book API</h3>
 </div>
