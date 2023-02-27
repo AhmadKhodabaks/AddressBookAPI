@@ -81,23 +81,9 @@ Created by Ahmad Khodabaks.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AhmadKhodabaks/react-lost-in-translation.git
+   git clone https://github.com/AhmadKhodabaks/AddressBookAPI.git
    ```
-2. Run the following command in your CLI to install the required dependecies on your localhost.
-   ```sh
-   npm install
-   ```
-3. It is important that you set your API key and url in a file. You can use Noroff Assignment API.
-   ```sh
-   https://github.com/dewald-els/noroff-assignment-api
-   REACT_APP_API_KEY=
-   REACT_APP_API_URL=
-   ```   
-4. Run the following command in your CLI to run on localhost.
-   ```sh
-   npm run
-   ```
-It will run the app in the development mode. Open http://localhost:3000 to view it in your browser.
+2. Run the program by start debugging.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
